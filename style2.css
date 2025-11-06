@@ -1,0 +1,28 @@
+p
+{ 
+
+
+    font-weight: 120;
+    color:rgb(255, 98, 98);
+    font-size: larger;
+}
+body
+{
+background-color:rebeccapurple;
+font-family: "Playfair Display", serif;
+max-width: 800px;
+margin: auto;
+
+}
+img
+{
+width:300px;
+border-color:rgb(20, 4, 4);
+border-style: double;
+
+}
+
+.c  {
+
+    text-align: center;
+}
