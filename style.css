@@ -3,19 +3,17 @@ p
 
 
     font-weight: 100;
-    color:rgb(255, 255, 255);
+    color:rgb(0, 0, 0);
     font-size: larger;
 }
 body
 {
-background-color: rgb(216, 156, 174);
+background-color: #e4507c;
 font-family: "Playfair Display", serif;
 
 }
 img
 {
 width:500px;
-border: 200px;px;
-border-color:rgb(255, 149, 149);
-border-style: double;
+
 }
